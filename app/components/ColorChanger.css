@@ -1,0 +1,26 @@
+.your-component .react-colorful {
+  height: 240px;
+}
+.your-component .react-colorful__saturation {
+  border-radius: 4px 4px 0 0;
+}
+.your-component .react-colorful__hue {
+  height: 14px;
+}
+
+.your-component .react-colorful__alpha {
+  height: 14px;
+}
+
+/* Custom poiners */
+.your-component .react-colorful__saturation-pointer {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+}
+.your-component .react-colorful__hue-pointer,
+.your-component .react-colorful__alpha-pointer {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+}
